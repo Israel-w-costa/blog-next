@@ -1,0 +1,35 @@
+{
+  "breadcrumbs.enabled": false,
+  "editor.fontSize": 18,
+  "debug.console.fontSize": 24,
+  "terminal.integrated.fontSize": 18,
+  "editor.glyphMargin": false,
+  "workbench.activityBar.location": "hidden",
+  "editor.lineNumbers": "off",
+  "files.eol": "\n", 
+  "workbench.editor.labelFormat": "short",
+  "editor.tabSize": 2,
+  "explorer.compactFolders": false,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[svg]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }}

@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": "99f8add4-7684-4c16-a316-616271db199e",
+      "title": "Rotina matinal de pessoas altamente eficazes",
+      "slug": "rotina-matinal-de-pessoas-altamente-eficazes",
+      "excerpt": "O Next.js também é uma boa escolha para quem quer se preocupar com performance e SEO.",
+      "content": "O Next.js também é uma boa escolha para quem quer se preocupar com performance e SEO.",
+      "coverImageUrl": "/images/bryen_8.png",
+      "published": true,
+      "createdAt": "2025-04-08T00:24:38.616Z",
+      "updatedAt": "2025-04-08T00:33:56.907Z",
+      "author": "Isabela Nunes"
+    },
+    {
+      "id": "afa086e4-53e4-492d-acf2-7c2966d83fcd",
+      "title": "Dicas para manter a saúde mental em dia",
+      "slug": "dicas-para-manter-a-saude-mental-em-dia",
+      "excerpt": "Em vez de configurar tudo manualmente, basta criar um arquivo com o nome certo e o Next.js entende que aquilo representa uma página.",
+      "content": "Em vez de configurar tudo manualmente, basta criar um arquivo com o nome certo e o Next.js entende que aquilo representa uma página.",
+      "coverImageUrl": "/images/bryen_6.png",
+      "published": true,
+      "createdAt": "2025-04-07T00:24:38.616Z",
+      "updatedAt": "2025-04-07T00:33:56.907Z",
+      "author": "Marina Duarte"
+    },
+    {
+      "id": "1b6a5f57-8a19-4933-91f4-1af678464ded",
+      "title": "Como a escrita pode mudar sua carreira",
+      "slug": "como-a-escrita-pode-mudar-sua-carreira",
+      "excerpt": "Muitas empresas e desenvolvedores individuais escolhem o Next.js justamente porque ele consegue unir simplicidade com recursos avançados.",
+      "content": "Muitas empresas e desenvolvedores individuais escolhem o Next.js justamente porque ele consegue unir simplicidade com recursos avançados.",
+      "coverImageUrl": "/images/bryen_9.png",
+      "published": true,
+      "createdAt": "2025-04-06T00:24:38.616Z",
+      "updatedAt": "2025-04-06T00:33:56.907Z",
+      "author": "Pedro Martins"
+    }] }
+   
