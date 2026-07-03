@@ -6,7 +6,7 @@
   "editor.glyphMargin": false,
   "workbench.activityBar.location": "hidden",
   "editor.lineNumbers": "off",
-  "files.eol": "\n", 
+  "files.eol": "\n",
   "workbench.editor.labelFormat": "short",
   "editor.tabSize": 2,
   "explorer.compactFolders": false,
@@ -16,6 +16,12 @@
 
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": "explicit"
+  },
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.runInTerminal": true,
+  "code-runner.ignoreSelection": true,
+  "code-runner.executorMap": {
+    "typescript": "clear; npx tsx"
   },
 
   "[javascript]": {
@@ -32,4 +38,5 @@
   },
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }}
+  }
+}

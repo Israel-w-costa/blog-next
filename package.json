@@ -23,6 +23,7 @@
     "eslint": "^9",
     "eslint-config-next": "15.4.4",
     "tailwindcss": "^4",
+    "tax": "^0.0.1",
     "typescript": "^5"
   }
 }
